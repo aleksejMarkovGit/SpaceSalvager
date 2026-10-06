@@ -4,10 +4,6 @@
 
 The player controls a spacecraft, collects salvage and tries to survive as long as possible while avoiding moving asteroids.
 
-The game is built around a simple loop:
-
-**fly → collect salvage → increase score → repair the ship → survive collisions → beat your previous record**
-
 ---
 
 ## 🎮 Gameplay
