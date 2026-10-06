@@ -34,7 +34,7 @@ Collisions with asteroids damage the ship depending on the collision impulse.
 | `→` | Rotate right |
 | `E` | Collect salvage |
 | `R` | Restart after Game Over |
-| `F1` | Toggle debug information |
+| `F1` | Toggle FPS information |
 | `Esc` | Exit |
 
 ---
